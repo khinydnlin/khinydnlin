@@ -33,7 +33,7 @@
 - **Machine Learning Models:** Regression, Causal Inference, Classification, and Time Series Forecasting
 
 
-## Projects
+## [Projects](.https://github.com/khinydnlin/portfolio)
 
 
 | Category | Highlighted Projects | Tools | Status |
