@@ -38,9 +38,9 @@
 
 | Category | Highlighted Projects | Tools | Status |
 |----------|------------------|--------------|--------|
-| Data Analytics | [E-commerce Analytics](./E-commerce%20Analytics)| MySQL | In Progress |
+| Data Analytics | [E-commerce Analytics](https://github.com/khinydnlin/portfolio/tree/main/E-commerce%20Analytics)| MySQL | In Progress |
 | Data Visualizations | Dashboard Design, Trend Reporting | Power BI, Tableau | Planned |
-| Data Science | [Used Car Prices Prediction in Myanmar](./Used%20Car%20Price%20Prediction%20in%20Myanmar)| Python | In Progress |
+| Data Science | [Used Car Prices Prediction in Myanmar](https://github.com/khinydnlin/portfolio/tree/main/Used%20Car%20Price%20Prediction%20in%20Myanmar)| Python | In Progress |
 
 ---
 Feel free to explore my projects and reach out if you're interested. I am always down to have a chat about data over coffee!☕
