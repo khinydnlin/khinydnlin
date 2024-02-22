@@ -11,7 +11,7 @@
 
 ### 🔍 About Me:
 
-🌟 I'm an experienced analytics professional with a rich background in research, analytics, and consulting. Currently on an exciting journey to pivot my career into data science and analytics, with a keen focus on product and marketing analytics. My ultimate aim is to deliver impactful business solutions through the power of big data technologies, and the full spectrum of analytics: descriptive, prescriptive, and predictive analytics.
+🌟 I'm an experienced analytics professional with a rich background in quantitative research, analytics, and consulting. Currently on an exciting journey to pivot my career into data science and analytics, with a keen focus on product and marketing analytics. My ultimate aim is to deliver impactful business solutions through the power of big data technologies, and the full spectrum of analytics: descriptive, prescriptive, and predictive analytics.
 
 ### 🛠 Skills & Learning:
 
