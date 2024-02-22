@@ -32,7 +32,7 @@
   
 - **Machine Learning Models:** Regression, Causal Inference, Classification, and Time Series Forecasting
 
-- **Optimisation and Prescriptive Analytics:** Linear Programming
+- **Optimisation and Prescriptive Analytics:** Linear Programming, Queueing Theory (only academic research as part of dissertation)
 
 ## [Projects](https://github.com/khinydnlin/portfolio) 
 
