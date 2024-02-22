@@ -32,6 +32,7 @@
   
 - **Machine Learning Models:** Regression, Causal Inference, Classification, and Time Series Forecasting
 
+- **Optimisation and Prescriptive Analytics: Linear Programming
 
 ## [Projects](https://github.com/khinydnlin/portfolio) 
 
