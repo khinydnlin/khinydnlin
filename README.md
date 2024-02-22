@@ -43,7 +43,7 @@
 | Data Science | [Used Car Prices Prediction in Myanmar](https://github.com/khinydnlin/portfolio/tree/main/Used%20Car%20Price%20Prediction%20in%20Myanmar)| Python | In Progress |
 
 ---
-Feel free to explore my projects and reach out if you're interested. I am always down to have a chat about data over coffee!☕
+Feel free to explore my projects and reach out if you're interested. I am always down to have a chat about data (over a cup of coffee)!☕
 
 
 
