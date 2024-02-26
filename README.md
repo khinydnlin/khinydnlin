@@ -1,13 +1,15 @@
 # Khin Yadanar Lin's Portfolio
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
-
+[![Medium][medium-shield]][medium-url]
 ...
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn--blue?style=social&logo=LinkedIn
 [linkedin-url]: https://www.linkedin.com/in/khinyadanarlin/
 [gmail-shield]: https://img.shields.io/badge/Gmail--red?style=social&logo=Gmail
 [gmail-url]: mailto:khinydnlin@gmail.com
+[medium-shield]: https://img.shields.io/badge/Medium--black?style=social&logo=Medium
+[medium-url]: https://medium.com/@khinydnlin_66752
 
 ### 🔍 About Me:
 
