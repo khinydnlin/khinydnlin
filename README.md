@@ -26,7 +26,7 @@
 
 ### 🔧 Analytics Tools & Technologies:
 
-- **Data Analytics:** MySQL, Python (Pandas, NumPy), R (dplyr), Jupyter Notebook, SPSS
+- **Data Analytics:** MySQL, Python (Pandas, NumPy), R (dplyr), Jupyter Notebook, Google Colab, SPSS
   
 - **Data Visualization:** Matplotlib, Seaborn, PowerBI, R(ggplot2)
   
