@@ -21,7 +21,7 @@
 - Data visualization and reporting
 - Financial modelling and market sizing
 
-Sectors:Consumer Services (F&B), Automotive, Real Estate, Financial Services, Agriculture 
+**Sectors**: Consumer Services (F&B), Automotive, Real Estate, Financial Services, Agriculture 
 
 ### 🔧 Analytics Tools & Technologies:
 
