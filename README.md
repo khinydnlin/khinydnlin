@@ -38,18 +38,6 @@
 
 ## [Projects](https://github.com/khinydnlin/portfolio) 
 
-
-| Category | Highlighted Projects | Tools | Status |
-|----------|------------------|--------------|--------|
-| Data Analytics | [E-commerce Analytics](https://github.com/khinydnlin/portfolio/tree/main/E-commerce%20Analytics)| MySQL | In Progress |
-| Data Visualizations | Dashboard Design, Trend Reporting | Power BI, Tableau | Planned |
-| Data Science | [Used Car Prices Prediction in Myanmar](https://github.com/khinydnlin/portfolio/tree/main/Used%20Car%20Price%20Prediction%20in%20Myanmar)| Python | In Progress |
-
-### 🎯 Goals for This Year:
-
-- Dive deeper into model deployment technologies.
-- Explore advanced machine learning techniques in deep learning and NLP to broaden my understanding and application of data science.
-
 ---
 Feel free to explore my projects and reach out if you're interested. I am always down to have a chat about data (over a cup of coffee)!☕
 
