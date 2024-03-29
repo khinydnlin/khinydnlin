@@ -36,7 +36,7 @@
 
 - **Optimisation and Prescriptive Analytics:** Linear Programming, Queueing Theory (only academic research as part of dissertation)
 
-## [Projects]
+## Projects
 
 Feel free to explore my projects [here](https://github.com/khinydnlin/portfolio) and reach out if you're interested. I am always down to have a chat about data (over a cup of coffee)!☕
 
