@@ -13,10 +13,11 @@
 
 ### 🔍 About Me:
 
-🌟 Experienced data science and analytics professional with 8 years of experience in quantitative research, analytics and management consulting. I am passionate about delivering impactful business solutions through the power of big data technologies, and data science techniques. In my previous roles, I performed a range of quantitative analyses:
+🌟 Experienced data science and analytics professional with 8 years of experience in quantitative research, analytics and management consulting. I am passionate about delivering impactful business solutions through the power of big data technologies and data science techniques. In my previous roles, I performed a range of quantitative analyses, including:
 
-- Statistical modelling - cluster analysis, price sensitivity analysis, linear regression modelling, market analysis to uncover market trends and consumer behaviours 
-- Experimental desgin using causal inference - Difference-in-Differences method to measusre the impacts of products and services
+- Statistical modelling: cluster analysis, price sensitivity analysis, linear regression modelling, and market analysis to uncover market trends and consumer behaviours 
+- Experimental design using causal inference - Difference-in-Differences method to measure the impacts of products and services
+- Time series forecasting
 - Survey data analysis 
 - Data visualization and reporting
 - Financial modelling and market sizing
