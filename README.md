@@ -13,12 +13,15 @@
 
 ### 🔍 About Me:
 
-🌟 I'm an experienced analytics professional with a rich background in quantitative research and analytics. Currently on an exciting journey to pivot my career into data science, with a focus on product and marketing analytics. My ultimate aim is to deliver impactful business solutions through the power of big data technologies, and the full spectrum of analytics: descriptive, prescriptive, and predictive analytics.
+🌟 Experienced data science and analytics professional with 8 years of experience in quantitative research, analytics and management consulting. I am passionate about delivering impactful business solutions through the power of big data technologies, and data science techniques. In my previous roles, I performed a range of quantitative analyses:
 
-### 🛠 Skills & Learning:
+- Statistical modelling - cluster analysis, price sensitivity analysis, linear regression modelling, market analysis to uncover market trends and consumer behaviours 
+- Experimental desgin using causal inference - Difference-in-Differences method to measusre the impacts of products and services
+- Survey data analysis 
+- Data visualization and reporting
+- Financial modelling and market sizing
 
-💡 I'm in the process of sharpening my coding skills via personal projects, data challenges on platforms like Kaggle and Maven Analytics, and through independent contracts. Always eager to learn new tools and technologies, I'm on a constant quest to enhance my tech stack.
-
+Sectors:Consumer Services (F&B), Automotive, Real Estate, Financial Services, Agriculture 
 
 ### 🔧 Analytics Tools & Technologies:
 
