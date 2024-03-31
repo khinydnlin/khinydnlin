@@ -1,4 +1,4 @@
-# Khin Yadanar Lin's Portfolio
+# Khin Yadanar Lin
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Medium][medium-shield]][medium-url]
