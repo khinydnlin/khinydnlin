@@ -13,13 +13,11 @@
 
 ### 🔍 About Me:
 
-🌟 Results-driven data science and analytics professional based in London 
+🌟 Results-driven data science and analytics professional based in London,passionate about delivering impactful business solutions through the power of big data technologies and data science techniques  
 
-🌟 I have 8 years+ of experience in quantitative research, analytics and management consulting.
+🖥️ 8+ years of experience in quantitative research, analytics and management consulting
 
-🌟 Passionate about delivering impactful business solutions through the power of big data technologies and data science techniques. 
-
-🌟 In my previous roles, I performed a range of quantitative analyses, including:
+🧠 In my previous roles, I performed a range of quantitative analyses, including:
 
 - Statistical modelling: cluster analysis, price sensitivity analysis, linear regression modelling, and market analysis to uncover market trends and consumer behaviours 
 - Experimental design using causal inference - Difference-in-Differences method to measure the impacts of products and services
