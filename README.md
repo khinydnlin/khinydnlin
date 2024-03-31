@@ -13,7 +13,11 @@
 
 ### 🔍 About Me:
 
-🌟 Results-driven data science and analytics professional with 8 years of experience in quantitative research, analytics and management consulting. I am passionate about delivering impactful business solutions through the power of big data technologies and data science techniques. 
+🌟 Results-driven data science and analytics professional based in London 
+
+🌟 I have 8 years+ of experience in quantitative research, analytics and management consulting.
+
+🌟 Passionate about delivering impactful business solutions through the power of big data technologies and data science techniques. 
 
 🌟 In my previous roles, I performed a range of quantitative analyses, including:
 
