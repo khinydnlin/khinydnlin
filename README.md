@@ -17,6 +17,8 @@
 
 🖥️ 8+ years of experience in quantitative research, analytics and management consulting
 
+🔧 View my projects [here](https://github.com/khinydnlin/portfolio)
+
 🧠 My expertise:
 
 - Statistical modelling: cluster analysis, price sensitivity analysis, linear regression modelling, and market analysis to uncover market trends and consumer behaviours 
@@ -42,10 +44,7 @@ In addition to my extensive experience, I am actively expanding my expertise int
 
 - **Optimisation and Prescriptive Analytics:** Linear Programming, Queueing Theory (only academic research as part of dissertation)
 
-## Projects
-
-Feel free to explore my projects [here](https://github.com/khinydnlin/portfolio) and reach out if you're interested. I am always down to have a chat about data (over a cup of coffee)!☕
-
+Feel free to explore my projects and reach out if you're interested. I am always down to have a chat about data (over a cup of coffee)!☕
 
 <!---
 khinydnlin/khinydnlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
