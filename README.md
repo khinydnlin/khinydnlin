@@ -17,8 +17,6 @@
 
 🖥️ 8+ years of experience in quantitative research, analytics and management consulting
 
-🔧 View my projects [here](https://github.com/khinydnlin/portfolio)
-
 🧠 My expertise:
 
 - Statistical modelling: cluster analysis, price sensitivity analysis, linear regression modelling, and market analysis to uncover market trends and consumer behaviours 
