@@ -30,18 +30,6 @@
 
 In addition to my extensive experience, I am actively expanding my expertise into machine learning domains.
 
-### 🔧 Analytics Tools & Technologies:
-
-- **Data Analytics:** MySQL, Python (Pandas, NumPy), R (dplyr), Jupyter Notebook, Google Colab, SPSS
-  
-- **Data Visualization:** Matplotlib, Seaborn, PowerBI, R(ggplot2)
-  
-- **Model Development:** Scikit-learn, R (Forecast)
-  
-- **Machine Learning Models:** Regression, Causal Inference, Classification, and Time Series Forecasting
-
-- **Optimisation and Prescriptive Analytics:** Linear Programming, Queueing Theory (only academic research as part of dissertation)
-
 Feel free to explore my projects and reach out if you're interested. I am always down to have a chat about data (over a cup of coffee)!☕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khinydnlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
