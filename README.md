@@ -30,6 +30,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khinydnlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=khinydnlin&show_icons=true)
+
 In addition to my extensive experience, I am actively expanding my expertise into machine learning domains.
 
 ### 🔧 Analytics Tools & Technologies:
