@@ -34,8 +34,6 @@ Feel free to explore my projects and reach out if you're interested. I am always
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khinydnlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=khinydnlin&show_icons=true)
-
 
 <!---
 khinydnlin/khinydnlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
