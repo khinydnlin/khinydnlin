@@ -19,7 +19,7 @@
 
 🧠 My expertise:
 
-- Statistical modelling: cluster analysis, price sensitivity analysis, linear regression modelling, and market analysis to uncover market trends and consumer behaviours 
+- Statistical modelling: cluster analysis, price sensitivity analysis, regression modelling, and market analysis to uncover market trends and consumer behaviours 
 - Experimental design using causal inference - Difference-in-Differences method to measure the impacts of products and services
 - Time series forecasting
 - Survey data analysis 
