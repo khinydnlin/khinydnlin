@@ -19,12 +19,11 @@
 
 🧠 My expertise:
 
-- Economentrics and Statistical modelling: time series forecasting, cluster analysis, price sensitivity analysis, regression modelling, and market analysis to uncover market trends and consumer behaviours 
-- Experimental design using causal inference - Difference-in-Differences method to measure the impacts of products and services
-- Machine Learning: supervised machine learning. clustering
-- Survey data analysis 
-- Data visualization and reporting
-- Financial modelling and market sizing
+Marketing analytics: Campaign attribution analysis, Marketing mix modelling, Brand equity measurement, Cohort analysis, Market sizing  
+
+Customer analytics: Customer segmentation/Cluster analysis, Customer Behaviour analysis, Churn analysis, Customer Retenion analysis
+
+Advanced analytics: Causal Inference (Difference-in-Differences Regression, AB testing), Demand Forecasting, Supervised Machine Learning
 
 **Sectors**: Consumer Services (F&B), Automotive, Real Estate, Financial Services, Agriculture
 
