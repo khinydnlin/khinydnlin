@@ -19,7 +19,7 @@
 
 🧠 My expertise:
 
-**Marketing analytics**: Campaign attribution analysis, Marketing mix modelling, Brand equity measurement, Cohort analysis, Market sizing  
+**Marketing analytics**: Marketing attribution analysis, Marketing mix modelling, Brand equity measurement, Cohort analysis, Market sizing  
 
 **Customer analytics**: Customer segmentation/Cluster analysis, Customer Behaviour analysis, Churn analysis, Customer Retenion analysis
 
